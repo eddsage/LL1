@@ -12,7 +12,7 @@ import java.util.Set;
 import java.util.function.BiConsumer;
 
 //Esto es un comentario  Edgar
-//esto es un comentario Rich
+//esto es un comentario Rich 2
 
 public class GSVicio {
 
