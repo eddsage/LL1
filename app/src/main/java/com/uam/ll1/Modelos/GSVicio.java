@@ -12,7 +12,7 @@ import java.util.Set;
 import java.util.function.BiConsumer;
 
 /**
- *
+ *///
  * @author ferch5003
  */
 public class GSVicio {
