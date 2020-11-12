@@ -11,10 +11,8 @@ import java.util.Iterator;
 import java.util.Set;
 import java.util.function.BiConsumer;
 
-/**
- *///
- * @author ferch5003
- */
+//Esto es un comentario  Edgar
+
 public class GSVicio {
 
     private ArrayList<String> terminales;
